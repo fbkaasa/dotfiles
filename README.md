@@ -10,7 +10,7 @@ Personal configuration files for my Linux setup running on CachyOS with Niri and
 * **rofi** — Application launcher and dmenu replacement
 * **swaylock** — Wayland screen locker setup
 * **noctalia** — Makes it easier to run Niri without 14224131241 packages 
-
+* **swayimg** — Handles every img previews (I've added mimeapps.list but use with care)
 ---
 
 ## 🛠️ Installation & Setup
@@ -28,12 +28,12 @@ Personal configuration files for my Linux setup running on CachyOS with Niri and
 
 3. **Dependencies (CachyOS / Arch):**
    ```bash
-   sudo pacman -S niri kitty fastfetch noctalia rofi-wayland swaylock swayidle wl-clipboard
+   sudo pacman -S --needed niri kitty fastfetch noctalia rofi-wayland swaylock swayidle swayimg wl-clipboard
    ```
 	Or simply this if you are on CachyOS (you dont need the `cachyos-niri-settings` as they are included here)
 
 	```bash
-	sudo pacman -S cachyos-niri-noctalia kitty fastfetch rofi-wayland swayidle
+	sudo pacman -S --needed cachyos-niri-noctalia kitty fastfetch rofi-wayland swaylock swayidle swayimg
 	```
 
 
