@@ -9,6 +9,14 @@ text/html=zen.desktop;
 x-scheme-handler/chrome=zen.desktop;
 x-scheme-handler/http=zen.desktop;
 x-scheme-handler/https=zen.desktop;
+image/png=swayimg.desktop
+image/jpeg=swayimg.desktop
+image/webp=swayimg.desktop
+image/gif=swayimg.desktop
+image/svg+xml=swayimg.desktop
+image/bmp=swayimg.desktop
+image/tiff=swayimg.desktop
+
 
 [Default Applications]
 application/x-extension-htm=zen.desktop
@@ -26,8 +34,10 @@ x-scheme-handler/mailspring=Mailspring.desktop
 x-scheme-handler/mailto=Mailspring.desktop
 x-scheme-handler/slack=slack.desktop
 x-scheme-handler/wowup=WowUpCf.desktop
-image/jpeg=swayimg.desktop
 image/png=swayimg.desktop
+image/jpeg=swayimg.desktop
 image/webp=swayimg.desktop
 image/gif=swayimg.desktop
 image/svg+xml=swayimg.desktop
+image/bmp=swayimg.desktop
+image/tiff=swayimg.desktop
