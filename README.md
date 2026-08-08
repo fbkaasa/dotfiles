@@ -30,6 +30,12 @@ Personal configuration files for my Linux setup running on CachyOS with Niri and
    ```bash
    sudo pacman -S niri kitty fastfetch noctalia rofi-wayland swaylock swayidle wl-clipboard
    ```
+	Or simply this if you are on CachyOS (you dont need the `cachyos-niri-settings` as they are included here)
+
+	```bash
+	sudo pacman -S cachyos-niri-noctalia kitty fastfetch rofi-wayland swayidle
+	```
+
 
 ---
 
