@@ -17,7 +17,6 @@ image/svg+xml=swayimg.desktop
 image/bmp=swayimg.desktop
 image/tiff=swayimg.desktop
 
-
 [Default Applications]
 application/x-extension-htm=zen.desktop
 application/x-extension-html=zen.desktop
