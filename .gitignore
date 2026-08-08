@@ -4,6 +4,7 @@
 # Allow tracking root files
 !.gitignore
 !README.md
+!mimeapps.list
 
 # Allow specific directories
 !/fastfetch/
