@@ -17,7 +17,7 @@ Personal configuration files for my Linux setup running on CachyOS with Niri and
 
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:YOUR_USERNAME/YOUR_DOTFILES_REPO.git ~/.config/dotfiles-temp
+   git clone git@github.com:fbkaasa/dotfiles.git ~/.config/dotfiles-temp
    ```
 
 2. **Copy configs into place:**
