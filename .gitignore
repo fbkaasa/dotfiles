@@ -1,0 +1,19 @@
+# Ignore everything in the directory
+/*
+
+# Allow tracking root files
+!.gitignore
+!README.md
+
+# Allow specific directories
+!/fastfetch/
+!/niri/
+!/kitty/
+!/swaylock/
+!/rofi/
+!/fish/
+!/noctalia/
+
+# Ignore system/editor noise inside allowed directories
+.DS_Store
+*.log
